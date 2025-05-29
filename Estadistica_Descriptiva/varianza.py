@@ -1,5 +1,6 @@
 import statistics
 
+print("Algoritmo para calcular la varianza")
 # Lista vacía para guardar los datos
 CantidadDatos = []
 
