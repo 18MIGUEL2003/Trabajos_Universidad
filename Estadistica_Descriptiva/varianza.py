@@ -1,5 +1,9 @@
 import statistics
 
+print("<------Esto es un algoritmo para calcular la varianza,------>")
+print("<------a continuación ingresa los datos 1 a 1 en la consola------>")
+print("<------y cuando termines ingresa la palabra -> fin.------>")
+
 # Lista vacía para guardar los datos
 CantidadDatos = []
 
